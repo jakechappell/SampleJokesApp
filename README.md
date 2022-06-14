@@ -1,2 +1,2 @@
 # SampleJokesApp
-A simple crud app made to display random jokes
+A simple crud API project made to display random jokes
